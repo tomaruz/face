@@ -4,11 +4,12 @@
     box-sizing: border-box;
     font-family: sans-serif;
     cursor: hide;
+    z-index: 0;
 }
 
 body {
     background: white;
-    z-index: 0;
+
 }
 
 
