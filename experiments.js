@@ -14,11 +14,9 @@ jQuery(document).ready(function() {
       xp += ((mouseX - xp)/4); //speed how quickly the circle comes back to the x current 
       yp += ((mouseY - yp)/4);
       $("#circle").css({left: xp +'px', top: yp +'px'});
-    }, 20);
+    });
   
   });
-
-
 
 
 //PARALLAX EFFECT FOR THE FACE

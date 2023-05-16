@@ -114,15 +114,15 @@ h1 {
     min-width: 40vw;
     max-height: 40vw;
     object-fit: fill;
-    transition: all 0.2s ease-in-out;
+    /* transition: all 0.2s ease-in-out; */
 }
 
 
-.gallery-content img:hover {
+/* .gallery-content img:hover {
     filter: brightness(50%);
     cursor: pointer;
 }
 
 .gallery-content img:active {
     filter: brightness(100%);
-}
+} */
